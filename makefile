@@ -1,4 +1,4 @@
-all: clean verilog exe
+all: verilog exe
 	./obj_dir/Vmodu
 
 verilog:
